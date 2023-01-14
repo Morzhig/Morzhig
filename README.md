@@ -8,8 +8,7 @@
 + [1-й Коллоквиум](https://github.com/Morzhig/Kollokvium)
 + [2-й Коллоквиум](https://github.com/Morzhig/TemplateMethod_Kolloc)
 + [Сквозной проект](https://github.com/Morzhig/Cross_Cut_Project)
-
-[Микро-задачи по Java(Паттерны).](https://github.com/Morzhig/JavaPatterns)
++ [Микро-задачи по Java(Паттерны).](https://github.com/Morzhig/JavaPatterns)
 
 Пока что это всё.
 
@@ -23,8 +22,7 @@ Some else fun activities, connected to studying:
 + [1st colloquium](https://github.com/Morzhig/Kollokvium)
 + [2nd colloquium](https://github.com/Morzhig/TemplateMethod_Kolloc)
 + [Cross Cutting project](https://github.com/Morzhig/Cross_Cut_Project)
-
-[Java micro-tasks(Patterns).](https://github.com/Morzhig/JavaPatterns)
++ [Java micro-tasks(Patterns).](https://github.com/Morzhig/JavaPatterns)
 
 That's it for now.
 
