@@ -1,4 +1,10 @@
-### Hi there 👋
+### Добро пожаловать на github студента ФПМИ. Я попытаюсь сюда скидывать что-то хоть немного интересное.
+
+
+
+### Welcome to repository of FAMCS student. Here I will try to list something barely interesting.
+
+### 
 
 <!--
 **Morzhig/Morzhig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
